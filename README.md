@@ -15,7 +15,7 @@ To install the mod:<br>
 2. Download the latest version of the WorldEditCUI Forge Edition and copy it to your mods folder.<br>
 <br>
 ![alt text](https://github.com/hexosse/WorldEditCUI-Forge-Edition/raw/master/img/wecui_download.png "")<br>
-
+      [WorldEdit CUI Forge Edition](https://github.com/hexosse/WorldEditCUI-Forge-Edition/releases/latest)<br>
 <br>
 ![alt text](https://github.com/hexosse/WorldEditCUI-Forge-Edition/raw/master/img/wecui_screenshots.png "")
 ![alt text](https://github.com/hexosse/WorldEditCUI-Forge-Edition/raw/master/img/wecui_screenshot_00.png "")
