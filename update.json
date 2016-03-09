@@ -1,0 +1,11 @@
+{
+  "homepage": "https://github.com/hexosse/WorldEditCUI-Forge-Edition/blob/master/README.md",
+  "promos": {
+    "1.8.9-latest"     : "v1.0.1",
+    "1.8.9-recomended" : "v1.0.1"
+  },
+  "1.8.9" : {
+    "v1.0.1" : "Added updater",
+    "v1.0.0" : "first release for forge 1.8.9, enjoy!"
+  }
+}
