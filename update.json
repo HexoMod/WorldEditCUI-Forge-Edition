@@ -5,6 +5,7 @@
     "1.8.9-recomended" : "1.0.1"
   },
   "1.8.9" : {
+    "1.0.2" : "Works with WorldEdit Mod",
     "1.0.1" : "Added updater",
     "1.0.0" : "first release for forge 1.8.9, enjoy!"
   }
