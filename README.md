@@ -35,3 +35,10 @@ To install the mod:
 ![alt text](https://github.com/hexosse/WorldEditCUI-Forge-Edition/raw/master/img/wecui_howto.png "")
 
 To use **WorldEditCUI Forge Edition**, simply make a selection on a server using WorldEdit, your selection will be instantly displayed on the screen. To clear your current selection issue the command **//sel**
+
+## Donate
+If you fell like donating for this mod, fell free to click on the donate button below.
+
+[![](https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KWZQGM88CGSWQ)
+
+Of course, you'll be added as a donator.
