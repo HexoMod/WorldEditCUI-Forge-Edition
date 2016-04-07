@@ -37,7 +37,7 @@ To install the mod:
 To use **WorldEditCUI Forge Edition**, simply make a selection on a server using WorldEdit, your selection will be instantly displayed on the screen. To clear your current selection issue the command **//sel**
 
 ## Donate
-If you fell like donating for this mod, fell free to click on the donate button below.
+If you feel the need to donate to this mod, then simply click the button below :
 
 [![](https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KWZQGM88CGSWQ)
 
