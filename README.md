@@ -1,5 +1,5 @@
 ![alt text](https://github.com/hexosse/WorldEditCUI-Forge-Edition/raw/master/img/wecui_header.png "")
-  
+
 This mod provides a client-side user interface for the [WorldEdit](http://dev.bukkit.org/bukkit-plugins/worldedit/) plugin allowing you to see your selected region in-game in real time. It allows you to work more quickly and accurately with your [WorldEdit](http://dev.bukkit.org/bukkit-plugins/worldedit/) selection and is especially useful when working with Polygon, Convex Hull and Cylinder selections.
 
 [WorldEditCUI](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292886-worldeditcui) was originally written by lahwran, it was subsequently maintained by yetanotherx, and is actually maintained by Mumfrey for the liteloader version.
@@ -21,7 +21,7 @@ To install the mod:
 
 * 1.7.10 : [WorldEditCuiFe-v1.0.2-mf-1.7.10-10.13.4.1566](https://raw.github.com/hexosse/WorldEditCUI-Forge-Edition/master/files/1.7.10/WorldEditCuiFe-v1.0.2-mf-1.7.10-10.13.4.1566.jar)
 * 1.8.9 : [WorldEditCuiFe-v1.0.2-mf-1.8.9-11.15.1.1764](https://raw.github.com/hexosse/WorldEditCUI-Forge-Edition/master/files/1.8.9/WorldEditCuiFe-v1.0.2-mf-1.8.9-11.15.1.1764.jar)
-* 1.9 : [WorldEditCuiFe-v1.0.2-mf-1.9-12.16.0.1782](https://raw.github.com/hexosse/WorldEditCUI-Forge-Edition/master/files/1.9/WorldEditCuiFe-v1.0.2-mf-1.9-12.16.0.1782.jar)
+* 1.9 : [WorldEditCuiFe-v1.0.2-mf-1.9-12.16.1.1887](https://raw.github.com/hexosse/WorldEditCUI-Forge-Edition/master/files/1.9/WorldEditCuiFe-v1.0.2-mf-1.9-12.16.1.1887.jar)
 
 
 ![alt text](https://github.com/hexosse/WorldEditCUI-Forge-Edition/raw/master/img/wecui_screenshots.png "")
