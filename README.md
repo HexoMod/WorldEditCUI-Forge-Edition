@@ -14,8 +14,8 @@ Display your [WorldEdit](http://dev.bukkit.org/bukkit-plugins/worldedit/) select
 
 To install the mod:
 
-1. Download and install the latest [forge](http://files.minecraftforge.net/) 1.7.10 or 1.8.9 or 1.9
-2. Download the latest version of the [WorldEdit CUI Forge Edition](https://raw.github.com/hexosse/WorldEditCUI-Forge-Edition/master/files/1.8.9/WorldEditCuiFe-v1.0.2-mf-1.8.9-11.15.1.1764.jar) for you forge version and copy it to your mods folder.
+1. Download and install the latest [forge](http://files.minecraftforge.net/) 1.7.10 or 1.8.9 or 1.9 or 1.9.4
+2. Download the latest version of the [WorldEdit CUI Forge Edition](http://minecraft.curseforge.com/projects/worldeditcui-forge-edition/files) for you forge version and copy it to your mods folder.
 
 ![alt text](https://github.com/hexosse/WorldEditCUI-Forge-Edition/raw/master/img/wecui_download.png "")
 
