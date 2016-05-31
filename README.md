@@ -19,9 +19,10 @@ To install the mod:
 
 ![alt text](https://github.com/hexosse/WorldEditCUI-Forge-Edition/raw/master/img/wecui_download.png "")
 
-* 1.7.10 : [WorldEditCuiFe-v1.0.2-mf-1.7.10-10.13.4.1566](https://raw.github.com/hexosse/WorldEditCUI-Forge-Edition/master/files/1.7.10/WorldEditCuiFe-v1.0.2-mf-1.7.10-10.13.4.1566.jar)
-* 1.8.9 : [WorldEditCuiFe-v1.0.2-mf-1.8.9-11.15.1.1764](https://raw.github.com/hexosse/WorldEditCUI-Forge-Edition/master/files/1.8.9/WorldEditCuiFe-v1.0.2-mf-1.8.9-11.15.1.1764.jar)
-* 1.9 : [WorldEditCuiFe-v1.0.2-mf-1.9-12.16.1.1887](https://raw.github.com/hexosse/WorldEditCUI-Forge-Edition/master/files/1.9/WorldEditCuiFe-v1.0.2-mf-1.9-12.16.1.1887.jar)
+* 1.7.10 : [WorldEditCuiFe-v1.0.3-mf-1.7.10-10.13.4.1566](https://raw.github.com/hexosse/WorldEditCUI-Forge-Edition/master/files/1.7.10/WorldEditCuiFe-v1.0.3-mf-1.7.10-10.13.4.1566.jar)
+* 1.8.9 : [WorldEditCuiFe-v1.0.3-mf-1.8.9-11.15.1.1855](https://raw.github.com/hexosse/WorldEditCUI-Forge-Edition/master/files/1.8.9/WorldEditCuiFe-v1.0.3-mf-1.8.9-11.15.1.1855.jar)
+* 1.9 : [WorldEditCuiFe-v1.0.3-mf-1.9-12.16.1.1934](https://raw.github.com/hexosse/WorldEditCUI-Forge-Edition/master/files/1.9/WorldEditCuiFe-v1.0.3-mf-1.9-12.16.1.1934.jar)
+* 1.9.4 : [WorldEditCuiFe-v1.0.3-mf-1.9.4-12.17.0.1937](https://raw.github.com/hexosse/WorldEditCUI-Forge-Edition/master/files/1.9/WorldEditCuiFe-v1.0.3-mf-1.9.4-12.17.0.1937.jar)
 
 
 ![alt text](https://github.com/hexosse/WorldEditCUI-Forge-Edition/raw/master/img/wecui_screenshots.png "")
