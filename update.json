@@ -1,14 +1,19 @@
 {
   "homepage": "http://mods.curse.com/mc-mods/minecraft/242932-worldeditcui-forge-edition",
   "promos": {
+    "1.10-latest"       : "1.0.3",
+    "1.10-recomended"   : "1.0.3",
     "1.9.4-latest"      : "1.0.3",
-    "1.9.4-latest"      : "1.0.3",
+    "1.9.4-recomended"  : "1.0.3",
     "1.9-latest"        : "1.0.3",
-    "1.9-latest"        : "1.0.3",
+    "1.9-recomended"    : "1.0.3",
     "1.8.9-latest"      : "1.0.3",
-    "1.8.9-latest"      : "1.0.3",
+    "1.8.9-recomended"  : "1.0.3",
     "1.7.10-latest"     : "1.0.3",
     "1.7.10-recomended" : "1.0.3"
+  },
+  "1.10" : {
+    "1.0.3" : "Correct a NullPointerException caused by thePlayer being null at startup"
   },
   "1.9.4" : {
     "1.0.3" : "Correct a NullPointerException caused by thePlayer being null at startup",
