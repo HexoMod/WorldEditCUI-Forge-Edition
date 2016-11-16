@@ -1,8 +1,10 @@
 {
   "homepage": "http://mods.curse.com/mc-mods/minecraft/242932-worldeditcui-forge-edition",
   "promos": {
-    "1.10.2-latest"       : "1.0.4",
-    "1.10.2-recomended"   : "1.0.4",
+    "1.11-latest"       : "1.0.4",
+    "1.11-recomended"   : "1.0.4",
+    "1.10.2-latest"     : "1.0.4",
+    "1.10.2-recomended" : "1.0.4",
     "1.10-latest"       : "1.0.4",
     "1.10-recomended"   : "1.0.4",
     "1.9.4-latest"      : "1.0.3",
@@ -13,6 +15,9 @@
     "1.8.9-recomended"  : "1.0.3",
     "1.7.10-latest"     : "1.0.3",
     "1.7.10-recomended" : "1.0.3"
+  },
+  "1.11" : {
+    "1.0.4" : "Here it is 1.11 ready !"
   },
   "1.10.2" : {
     "1.0.4" : "Update to the latest forge version"
