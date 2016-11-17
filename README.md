@@ -2,7 +2,7 @@
 
 This mod provides a client-side user interface for the [WorldEdit](http://dev.bukkit.org/bukkit-plugins/worldedit/) plugin allowing you to see your selected region in-game in real time. It allows you to work more quickly and accurately with your [WorldEdit](http://dev.bukkit.org/bukkit-plugins/worldedit/) selection and is especially useful when working with Polygon, Convex Hull and Cylinder selections.
 
-[WorldEditCUI](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292886-worldeditcui) was originally written by lahwran, it was subsequently maintained by yetanotherx, and is actually maintained by Mumfrey for the liteloader version.
+[WorldEditCUI](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292886-worldeditcui) was originally written by [lahwran](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272346-1-8-1-nov-19-lahwrans-mods-worldeditcui), it was subsequently maintained by [yetanotherx](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279646-obselete-cui-gui-visualizer-for-worldedit-v1-4-6), and is actually maintained by [Mumfrey](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292886-worldeditcui) for the liteloader version.
 WorldEditCUI Forge Edition does exactly the same as [WorldEditCUI](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292886-worldeditcui) but for [forge](http://files.minecraftforge.net/) 1.7.10, 1.8.9 ,1.9, 1.9.4, 1.10, 1.10.2 and 1.11
 
 ![alt text](https://github.com/hexosse/WorldEditCUI-Forge-Edition/raw/master/img/wecui_features.png "")
