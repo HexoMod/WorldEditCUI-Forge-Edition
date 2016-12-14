@@ -25,7 +25,7 @@ To install the mod:
 * 1.9.4 : [WorldEditCuiFe-v1.0.3-mf-1.9.4-12.17.0.1937](http://minecraft.curseforge.com/projects/worldeditcui-forge-edition/files/2304051/download)
 * 1.10 : [WorldEditCuiFe-v1.0.4-mf-1.10-12.18.0.2000](http://minecraft.curseforge.com/projects/worldeditcui-forge-edition/files/2315275/download)
 * 1.10.2 : [WorldEditCuiFe-v1.0.4-mf-1.10.2-12.18.2.2125](https://minecraft.curseforge.com/projects/worldeditcui-forge-edition/files/2345490/download)
-* 1.11 : [WorldEditCuiFe-v1.0.4-mf-1.11-13.19.0.2130](https://minecraft.curseforge.com/projects/worldeditcui-forge-edition/files/2345497/download)
+* 1.11 : [worldeditcuife-v1.0.5-mf-1.11-13.19.1.2189](https://minecraft.curseforge.com/projects/worldeditcui-forge-edition/files/2356191)
 
 
 ![alt text](https://github.com/hexosse/WorldEditCUI-Forge-Edition/raw/master/img/wecui_screenshots.png "")
