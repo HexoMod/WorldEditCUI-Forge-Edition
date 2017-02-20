@@ -1,8 +1,8 @@
 {
   "homepage": "http://mods.curse.com/mc-mods/minecraft/242932-worldeditcui-forge-edition",
   "promos": {
-    "1.11.2-latest"     : "1.0.6",
-    "1.11.2-recomended" : "1.0.6",
+    "1.11.2-latest"     : "2.0.0",
+    "1.11.2-recomended" : "2.0.0",
     "1.11-latest"       : "1.0.6",
     "1.11-recomended"   : "1.0.6",
     "1.10.2-latest"     : "1.0.6",
@@ -19,6 +19,7 @@
     "1.7.10-recomended" : "1.0.6"
   },
   "1.11.2" : {
+    "2.0.0" : "New major version. Visit : https://minecraft.curseforge.com/projects/worldeditcui-forge-edition-2",
     "1.0.6" : "Updated WorldEdit for forge dependency"
   },
   "1.11" : {
