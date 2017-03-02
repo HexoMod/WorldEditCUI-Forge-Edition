@@ -19,6 +19,7 @@
     "1.7.10-recomended" : "1.0.6"
   },
   "1.11.2" : {
+    "2.0.1" : "Updated forge and WorldEdit dependency",
     "2.0.0" : "New major version. Visit : https://minecraft.curseforge.com/projects/worldeditcui-forge-edition-2",
     "1.0.6" : "Updated WorldEdit for forge dependency"
   },
