@@ -1,16 +1,16 @@
 {
-  "homepage": "http://mods.curse.com/mc-mods/minecraft/242932-worldeditcui-forge-edition",
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/worldeditcui-forge-edition",
   "promos": {
-    "1.11.2-latest"     : "2.1.2",
-    "1.11.2-recomended" : "2.1.2",
+    "1.11.2-latest"     : "3.0.0",
+    "1.11.2-recomended" : "3.0.0",
     "1.11-latest"       : "1.0.7",
     "1.11-recomended"   : "1.0.7",
-    "1.10.2-latest"     : "1.0.7",
-    "1.10.2-recomended" : "1.0.7",
+    "1.10.2-latest"     : "3.0.0",
+    "1.10.2-recomended" : "3.0.0",
     "1.10-latest"       : "1.0.7",
     "1.10-recomended"   : "1.0.7",
-    "1.9.4-latest"      : "1.0.7",
-    "1.9.4-recomended"  : "1.0.7",
+    "1.9.4-latest"      : "3.0.0",
+    "1.9.4-recomended"  : "3.0.0",
     "1.9-latest"        : "1.0.7",
     "1.9-recomended"    : "1.0.7",
     "1.8.9-latest"      : "1.0.7",
@@ -19,6 +19,7 @@
     "1.7.10-recomended" : "1.0.7"
   },
   "1.11.2" : {
+    "3.0.0" : "Check the new version WorldEditCUI Forge Edition 3 : https://www.curseforge.com/minecraft/mc-mods/worldeditcui-forge-edition-3",
     "2.1.2" : "New major version. Visit : https://minecraft.curseforge.com/projects/worldeditcui-forge-edition-2",
     "2.0.1" : "Updated forge and WorldEdit dependency",
     "2.0.0" : "New major version. Visit : https://minecraft.curseforge.com/projects/worldeditcui-forge-edition-2",
@@ -32,6 +33,7 @@
     "1.0.4" : "Here it is 1.11 ready !"
   },
   "1.10.2" : {
+    "3.0.0" : "Check the new version WorldEditCUI Forge Edition 3 : https://www.curseforge.com/minecraft/mc-mods/worldeditcui-forge-edition-3",
     "1.0.7" : "Correct a mismatched version string.",
     "1.0.6" : "Updated WorldEdit for forge dependency",
     "1.0.4" : "Update to the latest forge version"
@@ -43,6 +45,7 @@
     "1.0.3" : "Correct a NullPointerException caused by thePlayer being null at startup"
   },
   "1.9.4" : {
+    "3.0.0" : "Check the new version WorldEditCUI Forge Edition 3 : https://www.curseforge.com/minecraft/mc-mods/worldeditcui-forge-edition-3",
     "1.0.7" : "Correct a mismatched version string.",
     "1.0.6" : "Updated WorldEdit for forge dependency",
     "1.0.3" : "Correct a NullPointerException caused by thePlayer being null at startup",
